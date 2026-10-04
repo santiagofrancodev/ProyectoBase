@@ -1,0 +1,11 @@
+# Dependencias y entorno Node
+node_modules/
+.env
+
+# Sistema y herramientas locales
+.DS_Store
+.atl/
+.kilo/
+
+# Archivo accidental generado en raíz por un comando de PowerShell
+e -File *
